@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hey you 👋
 
-<!--
-**ubeganov/ubeganov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### UX Engineer by day ✨ and Web Enthusiast by heart 💜
 
-Here are some ideas to get you started:
+UX & UI Governance @ **BMW** – focusing on **inclusive, accessible** and well-crafted digital experiences.<br>
+Previously Software Developer @ **Sulzer**.<br>
+Working at the intersection of **design**, **code**, and **people**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🏷️ About me
+
+- 🛠️ I work with: `.ts`, `.py`, `.js`, `.java`, `.html`, `.css`, `.figma`
+- 🎯 Focus: **WCAG**, **UX strategy**, **design systems**, **frontend architecture**
+- 🌈 Passionate about: **accessibility**, **microinteractions**, **visual storytelling**
+- 💬 Let's talk about: `design thinking`, `inclusive UX`, `clean code`, `human-centered design`
+- 🤝 Always curious, always designing with purpose
+
+---
+
+#### 📊 GitHub Stats & Badges
+
+![GitHub followers](https://img.shields.io/github/followers/ubeganov?label=Follow&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/ubeganov?affiliations=OWNER%2CCOLLABORATOR&style=social)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubeganov&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ubeganov&show_icons=true&theme=radical) --->
+
+---
+
+> ✨ Creating accessible, thoughtful web experiences — with code, color, and care.
