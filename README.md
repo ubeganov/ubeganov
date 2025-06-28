@@ -2,10 +2,6 @@
 
 #### UX Engineer by day ✨ and Web Enthusiast by heart 💜
 
-UX & UI Governance @ **BMW** – focusing on **inclusive, accessible** and well-crafted digital experiences.<br>
-Previously Software Developer @ **Sulzer**.<br>
-Working at the intersection of **design**, **code**, and **people**.
-
 ---
 
 #### 🏷️ About me
