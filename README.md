@@ -16,8 +16,8 @@
 
 #### 📊 GitHub Stats & Badges
 
-![GitHub followers](https://img.shields.io/github/followers/ubeganov?label=Follow&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/ubeganov?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![GitHub followers](https://img.shields.io/github/followers/luaxv0?label=Follow&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/luaxv0?affiliations=OWNER%2CCOLLABORATOR&style=social)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubeganov&layout=compact&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ubeganov&show_icons=true&theme=radical) --->
 
